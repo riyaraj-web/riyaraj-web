@@ -1,7 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Riya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyaraj-web&label=Profile%20views&color=0e75b6&style=flat" alt="riyaraj-web" /> </p>
 
 - 🌱 I’m currently learning **MERN fullstack**
