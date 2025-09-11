@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/riya-raj-264755250/" target="blank"><img align="center" src="https://raw.githubusercontent.com//github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/riya-raj-264755250" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/riya-raj-264755250" target="blank"><img align="center" src="https://raw.githubusercontent.com//github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/riya-raj-264755250" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/riyaraj45/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/riyaraj45/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/riya45/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/riya45/" height="30" width="40" /></a>
 </p>
