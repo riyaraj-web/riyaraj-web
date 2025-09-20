@@ -3,8 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyaraj-web&label=Profile%20views&color=0e75b6&style=flat" alt="riyaraj-web" /> </p>
 
 
-- 🌱 I’m currently learning **Fullstack development**
-
+- 
   
     <h3 align="left">Connect with me:</h3>
     <p align="left">
