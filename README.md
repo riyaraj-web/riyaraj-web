@@ -11,8 +11,7 @@
 
 - 🔭 I'm currently working on exciting full-stack projects
 - 🌱 I'm constantly learning and exploring new technologies
-- 💡 Passionate about solving DSA problems and building scalable applications
-- 📫 How to reach me: **riiyaraj079@gmail.com
+- 📫 How to reach me: riiyaraj079@gmail.com
 
 ---
 
