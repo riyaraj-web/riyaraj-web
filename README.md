@@ -12,7 +12,7 @@
 - 🔭 I'm currently working on exciting full-stack projects
 - 🌱 I'm constantly learning and exploring new technologies
 - 💡 Passionate about solving DSA problems and building scalable applications
-- 📫 How to reach me: **riyaraj@example.com** *(update with your email)*
+- 📫 How to reach me: **riiyaraj079@gmail.com
 
 ---
 
