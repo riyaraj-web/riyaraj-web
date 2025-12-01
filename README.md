@@ -117,15 +117,6 @@
 ---
 
 ## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riyaraj-web&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=riyaraj-web&show_icons=true&theme=radical&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=riyaraj-web&theme=radical" alt="GitHub Streak" />
 </p>
