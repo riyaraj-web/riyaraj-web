@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Riya Raj</h1>
+<h1 align="center">Hi 👋, I'm Riya Raj</h1>
 <h3 align="center">Full Stack Developer | Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
@@ -31,6 +31,28 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="40" width="50" />
   </a>
 </p>
+
+---
+
+## 📊 Coding Profile & Stats
+
+<div align="center">
+
+### 🎯 Codolio Profile
+[![Codolio Profile](https://img.shields.io/badge/Codolio-357_Problems_Solved-green?style=for-the-badge&logo=code&logoColor=white)](https://codolio.com/profile/zFnieSvp)
+[![Active Days](https://img.shields.io/badge/Active_Days-310-blue?style=for-the-badge)](https://codolio.com/profile/zFnieSvp)
+[![Contests](https://img.shields.io/badge/Contests-5-orange?style=for-the-badge)](https://codolio.com/profile/zFnieSvp)
+
+<a href="https://codolio.com/profile/zFnieSvp">
+  <img src="https://dsastats.vercel.app/api/codolio/zFnieSvp" alt="Codolio DSA Stats" />
+</a>
+
+### 📈 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/riyaraj45?theme=dark&font=Karma&ext=heatmap)
+
+</div>
+
+---
 
 ## 💻 Tech Stack
 
@@ -117,6 +139,18 @@
 ---
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riyaraj-web&theme=radical" alt="GitHub Streak" />
-</p>
+
+<div align="center">
+
+### 📊 Contribution Stats
+<img src="https://github-readme-stats.vercel.app/api?username=riyaraj-web&show_icons=true&theme=radical&locale=en&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=riyaraj-web&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true&bg_color=0D1117" alt="Top Languages" width="49%" />
+
+### 🔥 Streak Stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=riyaraj-web&theme=highcontrast&hide_border=true&background=0D1117&ring=FF1744&fire=FF1744&currStreakLabel=FF1744" alt="GitHub Streak" width="60%" />
+
+### 📊 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=riyaraj-web&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Contribution Graph" width="98%" />
+
+</div>
+ 
