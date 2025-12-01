@@ -12,7 +12,7 @@
 - 🌱 I'm constantly learning and exploring new technologies
 - 📫 How to reach me: riiyaraj079@gmail.com
 
----
+
 
 ## 🌐 Connect with Me
 
@@ -31,7 +31,7 @@
   </a>
 </p>
 
----
+
 
 ## 📊 Coding Profile & Stats
 
@@ -47,7 +47,6 @@
 
 </div>
 
----
 
 ## 💻 Tech Stack
 
