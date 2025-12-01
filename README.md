@@ -136,12 +136,6 @@
   </a>
 </p>
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
 ### 📊 Contribution Stats
 <img src="https://github-readme-stats.vercel.app/api?username=riyaraj-web&show_icons=true&theme=radical&locale=en&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=riyaraj-web&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true&bg_color=0D1117" alt="Top Languages" width="49%" />
