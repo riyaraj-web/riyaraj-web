@@ -135,11 +135,7 @@
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="45" height="45"/>
   </a>
 </p>
-
-### 📊 Contribution Stats
-<img src="https://github-readme-stats.vercel.app/api?username=riyaraj-web&show_icons=true&theme=radical&locale=en&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=riyaraj-web&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true&bg_color=0D1117" alt="Top Languages" width="49%" />
-
+ 
 ### 🔥 Streak Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=riyaraj-web&theme=highcontrast&hide_border=true&background=0D1117&ring=FF1744&fire=FF1744&currStreakLabel=FF1744" alt="GitHub Streak" width="60%" />
 
