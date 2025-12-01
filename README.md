@@ -46,6 +46,32 @@
 <a href="https://codolio.com/profile/zFnieSvp">
   <img src="https://dsastats.vercel.app/api/codolio/zFnieSvp" alt="Codolio DSA Stats" />
 </a>
+## 📊 Codolio Profile & Stats
+
+<div align="center">
+
+### 🎯 Codolio Profile
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/CODOLIO-357_PROBLEMS_SOLVED-brightgreen?style=for-the-badge&logo=code&logoColor=white" alt="Problems Solved"/>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/ACTIVE_DAYS-310-blue?style=for-the-badge&logo=calendar&logoColor=white" alt="Active Days"/>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/CONTESTS-5-orange?style=for-the-badge&logo=trophy&logoColor=white" alt="Contests"/>
+</td>
+</tr>
+</table>
+
+<a href="https://codolio.com/profile/zFnieSvp" target="_blank">
+  <img src="https://img.shields.io/badge/View_My_Codolio_Profile-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Codolio Profile"/>
+</a>
+
+
+
 
 ### 📈 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/riyaraj45?theme=dark&font=Karma&ext=heatmap)
