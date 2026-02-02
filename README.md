@@ -16,37 +16,11 @@
 
 ## 🌐 Connect with Me
 
-<p align="left">
+ <p align="left">
   <a href="https://www.linkedin.com/in/riya-raj-264755250" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
   </a>
-  <a href="https://codolio.com/profile/zFnieSvp" target="_blank">
-    <img align="center" src="https://codolio.com/favicon.ico" alt="Codolio" height="40" width="40" style="margin: 0 10px;" />
-  </a>
-  <a href="https://leetcode.com/u/riyaraj45/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="50" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/riya45/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="40" width="50" />
-  </a>
 </p>
-
-
-
-## 📊 Coding Profile & Stats
-
-<div align="center">
-
-### 🎯 Codolio Profile
-[![Codolio Profile](https://img.shields.io/badge/Codolio-357_Problems_Solved-green?style=for-the-badge&logo=code&logoColor=white)](https://codolio.com/profile/zFnieSvp)
-[![Active Days](https://img.shields.io/badge/Active_Days-310-blue?style=for-the-badge)](https://codolio.com/profile/zFnieSvp)
-[![Contests](https://img.shields.io/badge/Contests-5-orange?style=for-the-badge)](https://codolio.com/profile/zFnieSvp)
-
-### 📈 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/riyaraj45?theme=dark&font=Karma&ext=heatmap)
-
-</div>
-
 
 ## 💻 Tech Stack
 
