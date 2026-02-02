@@ -106,9 +106,4 @@
  
 ### 🔥 Streak Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=riyaraj-web&theme=highcontrast&hide_border=true&background=0D1117&ring=FF1744&fire=FF1744&currStreakLabel=FF1744" alt="GitHub Streak" width="60%" />
-
-### 📊 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=riyaraj-web&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Contribution Graph" width="98%" />
-
-</div>
  
