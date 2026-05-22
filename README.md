@@ -8,7 +8,7 @@
 
 ### About me
 
- 🎓 B.Tech in Computer Science @ **Vellore Institute of Technology** (2022–2026)
+ 🎓 B.Tech in Computer Science and Engineering @ **Vellore Institute of Technology** (2022–2026)
 - 💼 Ex-SDE Intern @ **Gohoardings Solution LLP** — full dev-to-deploy ownership with Next.js, Node.js & MySQL
 - 📋 Ex-Project Management Intern @ **Wyreflow Technologies** — led UI/UX design ,developement and devops teams
 - 🏥 Ex-Web Developer Intern @ **Healthynfinity** — built hospital management modules & patient onboarding flows
