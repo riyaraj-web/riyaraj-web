@@ -5,15 +5,16 @@
   <img src="https://komarev.com/ghpvc/?username=riyaraj-web&label=Profile%20views&color=blueviolet&style=flat" alt="riyaraj-web" />
 </p>
 ---
- 
-### 🚀 About Me
- 
-- 🎓 B.Tech in Computer Science @ **Vellore Institute of Technology** (2022–2026)
+
+ #About me
+ 🎓 B.Tech in Computer Science @ **Vellore Institute of Technology** (2022–2026)
 - 💼 Ex-SDE Intern @ **Gohoardings Solution LLP** — full dev-to-deploy ownership with Next.js, Node.js & MySQL
-- 🌱 Currently exploring **AI/GenAI integrations** and scalable full-stack architectures
-- 🏆 Shefi Scholar 2025 · Nokia Hackathon Semi-Finalist · GSSoC 2024 Open Source Contributor
+- 📋 Ex-Project Management Intern @ **Wyreflow Technologies** — led UI/UX design team & managed 5+ Agile sprints
+- 🏥 Ex-Web Developer Intern @ **Healthynfinity** — built hospital management modules & patient onboarding flows
+- 🖥️ Ex-Full Stack Intern @ **Ethnus Codemithra** — delivered full-stack MERN projects
+- 🌱 Currently exploring **LLM integrations**, AI-powered apps, and scalable full-stack architectures
+- 🏆 Shefi Scholar 2025 · Nokia Hackathon Semi-Finalist · Sampurna '23 Runner-Up · GSSoC  Open Source Contributor
 - 📬 Reach me at **riiyaraj079@gmail.com**
----
  
 ### 🛠️ Tech Stack
  
