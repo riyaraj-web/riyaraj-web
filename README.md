@@ -53,9 +53,9 @@
  
 `OCI GenAI Professional – Oracle` &nbsp; `OCI Data Science – Oracle` &nbsp; `React.js – Udemy` &nbsp; `AWS – Udemy` &nbsp; `MERN Fullstack – Ethnus`...and more
  
----
+
  
-### 📊 GitHub Stats
+###  GitHub Stats
  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=riyaraj-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
