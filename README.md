@@ -10,7 +10,7 @@
 
  🎓 B.Tech in Computer Science @ **Vellore Institute of Technology** (2022–2026)
 - 💼 Ex-SDE Intern @ **Gohoardings Solution LLP** — full dev-to-deploy ownership with Next.js, Node.js & MySQL
-- 📋 Ex-Project Management Intern @ **Wyreflow Technologies** — led UI/UX design team & managed 5+ Agile sprints
+- 📋 Ex-Project Management Intern @ **Wyreflow Technologies** — led UI/UX design ,developement and devops teams
 - 🏥 Ex-Web Developer Intern @ **Healthynfinity** — built hospital management modules & patient onboarding flows
 - 🖥️ Ex-Full Stack Intern @ **Ethnus Codemithra** — delivered full-stack MERN projects
 - 🌱 Currently exploring **LLM integrations**, AI-powered apps, and scalable full-stack architectures
@@ -44,7 +44,7 @@
  
 - 🎖️ **Shefi Scholar 2025** — Recognized for academic excellence & leadership in tech
 - 🏆 **Semi-Finalist** — Nokia Hackathon: Accelerate Her in Tech (2025)
-- 🥉 **2nd Runner-Up** — Startup Wreck Sampurna '23, VIT Bhopal (250+ teams)
+- 🥉 **Runner-Up** — Startup Wreck Sampurna '23, VIT Bhopal (250+ teams)
 - 🌍 **Open Source Contributor** — GirlScript Summer of Code (GSSoC) 2024
 - 💻 **400+ DSA problems** solved on LeetCode & GeeksforGeeks
 ---
