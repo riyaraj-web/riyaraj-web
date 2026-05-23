@@ -28,17 +28,6 @@
 | **DevOps & Tools** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
 | **AI & GenAI** | ![GenAI](https://img.shields.io/badge/Generative_AI-8B5CF6?style=flat-square&logo=openai&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=flat-square&logo=openai&logoColor=white) ![Oracle OCI](https://img.shields.io/badge/OCI_GenAI-F80000?style=flat-square&logo=oracle&logoColor=white) |
  
-
- 
-### 💼 Featured Projects
- 
-| Project | Stack | Description |
-|---|---|---|
-| 🔍 [**JobFlow**](https://github.com/riyaraj-web) | React · TypeScript · Supabase · PostgreSQL · Tailwind | Full-stack job tracker with dashboard, filters, and real-time sync |
-| 🧘 [**Mindspace**](https://github.com/riyaraj-web) | React · Node.js · MongoDB · JWT · Redux | Mental wellness platform with mood tracking, journaling & analytics |
-| 🥗 [**PantryPal**](https://github.com/riyaraj-web) | React · TypeScript · Express.js · PostgreSQL · Drizzle ORM | 7-module pantry app with meal planning & 20+ API endpoints |
- 
-
  
 ### 🏅 Achievements
  
