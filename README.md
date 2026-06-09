@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Riya Raj</h1>
+<h1 align="center">Hi, I'm Riya Raj</h1>
  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=riyaraj-web&label=Profile%20views&color=blueviolet&style=flat" alt="riyaraj-web" />
