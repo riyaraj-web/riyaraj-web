@@ -14,6 +14,7 @@
 - 🖥️ Ex-Full Stack Intern @ **Ethnus Codemithra** — delivered full-stack MERN projects
 - 🌱 Currently exploring **LLM integrations**, AI-powered apps, and scalable full-stack architectures
 - 🏆 Shefi Scholar 2025 · Nokia Hackathon Semi-Finalist · Sampurna '23 Runner-Up · GSSoC  Open Source Contributor
+- riiyaraj079@gmail.com
 - ###  Connect
  
 <p align="left">
