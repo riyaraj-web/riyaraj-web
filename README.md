@@ -41,28 +41,15 @@
   <img src="https://img.shields.io/badge/Max%20Streak-71%20days-orange?style=flat-square" />
 </p>
  
-### 🏅 Achievements
- 
-- 🎖️ **Shefi Scholar 2025** — Recognized for academic excellence & leadership in tech
-- 🏆 **Semi-Finalist** — Nokia Hackathon: Accelerate Her in Tech (2025)
-- 🥉 **Runner-Up** — Startup Wreck Sampurna '23, VIT Bhopal (250+ teams)
-- 🌍 **Open Source Contributor** — GirlScript Summer of Code (GSSoC) 2024
-- 💻 **400+ DSA problems** solved on LeetCode & GeeksforGeeks
----
- 
-### 📜 Certifications
- 
-`OCI GenAI Professional – Oracle` &nbsp; `OCI Data Science – Oracle` &nbsp; `React.js – Udemy` &nbsp; `AWS – Udemy` &nbsp; `MERN Fullstack – Ethnus`...and more
- 
-
  ###  GitHub Stats
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=riyaraj-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyaraj-web&layout=compact&theme=tokyonight&hide_border=true" height="165" /></p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=riyaraj-web&theme=tokyonight&hide_border=true" /></p>
 
----
-
+### 📜 Certifications
+ 
+`OCI GenAI Professional – Oracle` &nbsp; `OCI Data Science – Oracle` &nbsp; `React.js – Udemy` &nbsp; `AWS – Udemy` &nbsp; `MERN Fullstack – Ethnus`...and more
  
 ### 🤝 Connect
  
