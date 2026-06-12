@@ -28,12 +28,7 @@
 | **AI & GenAI** | ![GenAI](https://img.shields.io/badge/Generative_AI-8B5CF6?style=flat-square&logo=openai&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=flat-square&logo=openai&logoColor=white) ![Oracle OCI](https://img.shields.io/badge/OCI_GenAI-F80000?style=flat-square&logo=oracle&logoColor=white) |
 
  ### 🧩 Coding Profile
-
-<p align="center">
-  <a href="https://codolio.com/profile/zFnieSvp" target="_blank">
-    <img src="https://img.shields.io/badge/Codolio-425%20Problems%20%7C%20364%20Active%20Days-7c3aed?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-</p>
+ 
 <img width="1195" height="256" alt="{A2F91778-AAA2-441C-8BBC-ABC2641E6C50}" src="https://github.com/user-attachments/assets/67107ccb-4438-42f3-9a6f-b096abed9395" />
 
 <p align="center">
