@@ -34,8 +34,7 @@
     <img src="https://img.shields.io/badge/Codolio-425%20Problems%20%7C%20364%20Active%20Days-7c3aed?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
-<img width="1696" height="795" alt="{F5E7F02D-1557-4F44-99FD-6693835B5A08}" src="https://github.com/user-attachments/assets/01b6eb43-592f-47d8-9df3-deee6afd6678" />
-
+<img width="1195" height="256" alt="{A2F91778-AAA2-441C-8BBC-ABC2641E6C50}" src="https://github.com/user-attachments/assets/67107ccb-4438-42f3-9a6f-b096abed9395" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-400%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
