@@ -14,7 +14,25 @@
 - 🖥️ Ex-Full Stack Intern @ **Ethnus Codemithra** — delivered full-stack MERN projects
 - 🌱 Currently exploring **LLM integrations**, AI-powered apps, and scalable full-stack architectures
 - 🏆 Shefi Scholar 2025 · Nokia Hackathon Semi-Finalist · Sampurna '23 Runner-Up · GSSoC  Open Source Contributor
-- 📬 Reach me at **riiyaraj079@gmail.com**
+- ### 🤝 Connect
+ 
+<p align="left">
+  <a href="https://linkedin.com/in/riya-raj-264755250" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/riyaraj45" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="mailto:riiyaraj079@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+---
+ 
+<p align="center">
+  <i>"Building products that are clean, fast, and actually solve problems."</i>
+</p>
+ 
  
 ### 🛠️ Tech Stack
  
@@ -51,22 +69,4 @@
  
 `OCI GenAI Professional – Oracle` &nbsp; `OCI Data Science – Oracle` &nbsp; `React.js – Udemy` &nbsp; `AWS – Udemy` &nbsp; `MERN Fullstack – Ethnus`...and more
  
-### 🤝 Connect
- 
-<p align="left">
-  <a href="https://linkedin.com/in/riya-raj-264755250" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/riyaraj45" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="mailto:riiyaraj079@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
----
- 
-<p align="center">
-  <i>"Building products that are clean, fast, and actually solve problems."</i>
-</p>
- 
+
