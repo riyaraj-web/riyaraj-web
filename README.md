@@ -26,7 +26,24 @@
 | **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 | **DevOps & Tools** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
 | **AI & GenAI** | ![GenAI](https://img.shields.io/badge/Generative_AI-8B5CF6?style=flat-square&logo=openai&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=flat-square&logo=openai&logoColor=white) ![Oracle OCI](https://img.shields.io/badge/OCI_GenAI-F80000?style=flat-square&logo=oracle&logoColor=white) |
- 
+
+ ### 🧩 Coding Profile
+
+<p align="center">
+  <a href="https://codolio.com/profile/zFnieSvp" target="_blank">
+    <img src="https://img.shields.io/badge/Codolio-425%20Problems%20%7C%20364%20Active%20Days-7c3aed?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-400%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/GFG-10%2B%20Solved-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Contest%20Rating-1436-blue?style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Max%20Streak-71%20days-orange?style=flat-square" />
+</p>
  
 ### 🏅 Achievements
  
