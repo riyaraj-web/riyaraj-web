@@ -14,7 +14,7 @@
 - 🖥️ Ex-Full Stack Intern @ **Ethnus Codemithra** — delivered full-stack MERN projects
 - 🌱 Currently exploring **LLM integrations**, AI-powered apps, and scalable full-stack architectures
 - 🏆 Shefi Scholar 2025 · Nokia Hackathon Semi-Finalist · Sampurna '23 Runner-Up · GSSoC  Open Source Contributor
-- ### 🤝 Connect
+- ###  Connect
  
 <p align="left">
   <a href="https://linkedin.com/in/riya-raj-264755250" target="_blank">
@@ -27,12 +27,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
----
- 
-<p align="center">
-  <i>"Building products that are clean, fast, and actually solve problems."</i>
-</p>
- 
  
 ### 🛠️ Tech Stack
  
