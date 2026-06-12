@@ -15,8 +15,7 @@
 - 🌱 Currently exploring **LLM integrations**, AI-powered apps, and scalable full-stack architectures
 - 🏆 Shefi Scholar 2025 · Nokia Hackathon Semi-Finalist · Sampurna '23 Runner-Up · GSSoC  Open Source Contributor
 - riiyaraj079@gmail.com
-- ###  Connect
- 
+  
 <p align="left">
   <a href="https://linkedin.com/in/riya-raj-264755250" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
